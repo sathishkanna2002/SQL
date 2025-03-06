@@ -1,3 +1,3 @@
-Blinkit Grocery Analysis using SQL(MS SQL)\
+Blinkit Grocery Analysis using SQL(MS SQL)
 
 Dataset source - Kaggle
